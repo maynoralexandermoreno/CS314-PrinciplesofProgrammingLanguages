@@ -17,3 +17,5 @@ H (Fork (Leaf 'a') (Leaf 'b'))
 
 Property test score: 0
 (Decode property failed)
+
+Practice script is the 2nd one. 
